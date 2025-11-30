@@ -1,0 +1,12 @@
+{
+  "name": "wild_horizen",
+  "version": "1.0.0",
+  "description": "make you familiar with awsome places in the wide world",
+  "license": "ISC",
+  "author": "Hojjat Rasti",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
